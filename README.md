@@ -1,6 +1,6 @@
 # 💫 About Me:
 my name is Pranav abasaheb phalke . i'm a aspiring mern stack developer and my skills are html,css,js,tailwind,expressjs,mongodb,nodejs
- <br>currently pursuing mca from gh raisoni college of enginnering and management, pune.
+ <br>Just completed mca from GH  Raisoni college of enginnering and management, pune.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pranav_9555) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-phalke-112a162ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavphalke9555@gmail.com) 
